@@ -1,0 +1,18 @@
+.custom-footer {
+    background-color: #0255D6;
+    color: white;
+    text-align: center;
+    padding: 40px 0; /* Makes the footer bigger */
+    font-size: 18px;  /* Increase font size */
+    height: auto;
+  }
+  
+  .custom-footer h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .custom-footer p {
+    margin: 10px 0 0;
+  }
+  
